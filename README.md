@@ -1,2 +1,2 @@
-# Smart_Dashboard
-Smart Dashboard
+# friendly-computing-machine
+Bank Submit History Dashboard
